@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[JiangHe]]></title>
+  <link href="http://jianghe.gitcafe.com/atom.xml" rel="self"/>
+  <link href="http://jianghe.gitcafe.com/"/>
+  <updated>2015-02-10T15:12:18+08:00</updated>
+  <id>http://jianghe.gitcafe.com/</id>
+  <author>
+    <name><![CDATA[JiangHe Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[UpCat]]></title>
+    <link href="http://jianghe.gitcafe.com/blog/2015/01/01/title/"/>
+    <updated>2015-01-01T00:00:00+08:00</updated>
+    <id>http://jianghe.gitcafe.com/blog/2015/01/01/title</id>
+    <content type="html"><![CDATA[<table border="3">
+<tr>
+<td rowspan="3">
+<a href="https://itunes.apple.com/us/app/upcat/id898802089?l=zh&ls=1&mt=8"><img border="0" src="http://jianghe.gitcafe.com/images/UpCat.png" alt="UpCat" title="UpCat"/></td></a>  
+<th>Free ($0.00)</th>
+</tr>
+<tr>
+<td>It&#8217;s an adventure game. You will find It have a surprise ending&#8230;.
+<a href="https://itunes.apple.com/us/app/upcat/id898802089?l=zh&ls=1&mt=8">More</a>>>>>>>>>>
+<a href="https://itunes.apple.com/us/app/upcat/id898802089?l=zh&ls=1&mt=8">[Download]</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[32Trigrams+]]></title>
+    <link href="http://jianghe.gitcafe.com/blog/2015/01/01/32trigrams/"/>
+    <updated>2015-01-01T00:00:00+08:00</updated>
+    <id>http://jianghe.gitcafe.com/blog/2015/01/01/32trigrams</id>
+    <content type="html"><![CDATA[<table border="3">
+<tr>
+<td rowspan="3">
+<a href="https://itunes.apple.com/us/app/32trigrams+/id950262693?l=zh&ls=1&mt=8"><img border="0" src="http://jianghe.gitcafe.com/images/32Trigrams.png" alt="32Trigrams+" title="32Trigrams+"/></td></a>  
+<th>Free ($0.00)</th>
+</tr>
+<tr>
+<td>The graphics are grouped together, higher level of graphics get&#8230;.
+<a href="https://itunes.apple.com/us/app/32trigrams+/id950262693?l=zh&ls=1&mt=8">More</a>>>>>>>>>>
+<a href="https://itunes.apple.com/us/app/32trigrams+/id950262693?l=zh&ls=1&mt=8">[Download]</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+
+]]></content>
+  </entry>
+  
+</feed>
